@@ -1,0 +1,230 @@
+ rpm -V python3-gpg
+missing     /usr/lib64/python3.6/site-packages/gpg
+missing     /usr/lib64/python3.6/site-packages/gpg-1.13.1-py3.6.egg-info
+missing     /usr/lib64/python3.6/site-packages/gpg/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/callbacks.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/callbacks.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/core.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/core.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/errors.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/errors.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/gpgme.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/gpgme.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/results.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/results.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/util.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/util.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/version.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/version.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/_gpgme.cpython-36m-x86_64-linux-gnu.so
+missing     /usr/lib64/python3.6/site-packages/gpg/callbacks.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/create.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/create.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/event.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/event.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/import_type.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/import_type.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/keysign.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/keysign.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/md.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/md.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/pk.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/pk.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/protocol.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/protocol.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/sigsum.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/sigsum.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/status.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/status.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/validity.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/validity.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/create.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__pycache__/encoding.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__pycache__/encoding.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/encoding.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/event.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/import_type.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__pycache__/mode.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__pycache__/mode.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/mode.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keysign.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/md.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/pk.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/protocol.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/mode.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/mode.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/notation.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/notation.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/mode.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/notation.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sigsum.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/status.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__pycache__/policy.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__pycache__/policy.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/policy.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/validity.py
+missing     /usr/lib64/python3.6/site-packages/gpg/core.py
+missing     /usr/lib64/python3.6/site-packages/gpg/errors.py
+missing     /usr/lib64/python3.6/site-packages/gpg/gpgme.py
+missing     /usr/lib64/python3.6/site-packages/gpg/results.py
+missing     /usr/lib64/python3.6/site-packages/gpg/util.py
+missing     /usr/lib64/python3.6/site-packages/gpg/version.py
+
+2. strace -ftTv -o /tmp/rpm.strace rpm -V python3-gpg
+missing     /usr/lib64/python3.6/site-packages/gpg
+missing     /usr/lib64/python3.6/site-packages/gpg-1.13.1-py3.6.egg-info
+missing     /usr/lib64/python3.6/site-packages/gpg/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/callbacks.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/callbacks.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/core.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/core.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/errors.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/errors.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/gpgme.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/gpgme.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/results.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/results.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/util.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/util.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/version.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/__pycache__/version.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/_gpgme.cpython-36m-x86_64-linux-gnu.so
+missing     /usr/lib64/python3.6/site-packages/gpg/callbacks.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/create.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/create.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/event.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/event.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/import_type.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/import_type.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/keysign.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/keysign.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/md.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/md.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/pk.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/pk.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/protocol.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/protocol.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/sigsum.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/sigsum.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/status.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/status.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/validity.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/__pycache__/validity.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/create.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__pycache__/encoding.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/__pycache__/encoding.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/data/encoding.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/event.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/import_type.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__pycache__/mode.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/__pycache__/mode.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keylist/mode.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/keysign.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/md.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/pk.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/protocol.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/mode.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/mode.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/notation.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/__pycache__/notation.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/mode.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sig/notation.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/sigsum.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/status.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__init__.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__pycache__
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__pycache__/__init__.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__pycache__/__init__.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__pycache__/policy.cpython-36.opt-1.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/__pycache__/policy.cpython-36.pyc
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/tofu/policy.py
+missing     /usr/lib64/python3.6/site-packages/gpg/constants/validity.py
+missing     /usr/lib64/python3.6/site-packages/gpg/core.py
+missing     /usr/lib64/python3.6/site-packages/gpg/errors.py
+missing     /usr/lib64/python3.6/site-packages/gpg/gpgme.py
+missing     /usr/lib64/python3.6/site-packages/gpg/results.py
+missing     /usr/lib64/python3.6/site-packages/gpg/util.py
+missing     /usr/lib64/python3.6/site-packages/gpg/version.py
+
+3.[root@gtocitdpt03 msp_admin]# clear
+[root@gtocitdpt03 msp_admin]# rpm -qf `which python3`
+/usr/bin/which: no python3 in (/usr/share/Modules/bin:/sbin:/bin:/usr/sbin:/usr/bin)
+rpm: no arguments given for query
+[root@gtocitdpt03 msp_admin]# update-alternatives --display python
+python - status is manual.
+ link currently points to /usr/bin/python3
+/usr/libexec/no-python - priority 404
+ slave unversioned-python: (null)
+ slave unversioned-python-man: /usr/share/man/man1/unversioned-python.1.gz
+/usr/bin/python2 - priority 200
+ slave unversioned-python: /usr/bin/python2
+ slave unversioned-python-man: /usr/share/man/man1/python2.1.gz
+/usr/bin/python3 - priority 300
+ slave unversioned-python: /usr/bin/python3
+ slave unversioned-python-man: /usr/share/man/man1/python3.1.gz
+Current `best' version is /usr/libexec/no-python.
+[root@gtocitdpt03 msp_admin]# update-alternatives --display python3
+python3 - status is auto.
+ link currently points to /usr/bin/python3.6
+/usr/bin/python3.6 - priority 1000000
+ slave easy_install-3: /usr/bin/easy_install-3.6
+ slave pip-3: /usr/bin/pip-3.6
+ slave pip3: /usr/bin/pip3.6
+ slave pydoc-3: /usr/bin/pydoc3.6
+ slave pydoc3: /usr/bin/pydoc3.6
+ slave pyvenv-3: /usr/bin/pyvenv-3.6
+ slave python3-man: /usr/share/man/man1/python3.6.1.gz
+Current `best' version is /usr/bin/python3.6.
+[root@gtocitdpt03 msp_admin]#
